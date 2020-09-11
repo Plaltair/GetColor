@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Get Color</string>
+
+    <string name="changePointerColor">Cambia colore del puntatore</string>
+
+    <string name="saveColor">Salva colore</string>
+    <string name="getColorFromImage">Colore da immagine</string>
+    <string name="takeAPhoto">Scatta una foto</string>
+    <string name="getSavedColors">Colori salvati</string>
+
+    <string name="red">Red</string>
+    <string name="green">Green</string>
+    <string name="blue">Blue</string>
+    <string name="hex">Hex</string>
+
+    <string name="errorColor">ERRORE: colore sconosciuto</string>
+
+    <string name="colorSaved">Colore salvato</string>
+
+    <string name="delete">Elimina</string>
+
+    <string name="alreadySavedColor">ERRORE: Colore già salvato</string>
+
+    <string name="noColorSaved">Nessun colore salvato</string>
+
+    <string name="yourPictures">Foto scattate</string>
+
+    <string name="saveInTheGallery">Salva</string>
+
+    <string name="noPicture">Nessuna foto</string>
+
+    <string name="imageSaved">Immagine salvata nella galleria</string>
+
+    <string name="error">ERRORE</string>
+
+    <string name="otherOptions">Altre opzioni</string>
+
+    <string name="confirm">Conferma</string>
+
+    <string name="chooseAColor">Scegli un colore</string>
+
+    <string name="defaultColors">Colori predefiniti</string>
+
+    <string name="customColor">Colore personalizzato</string>
+
+    <string name="cpv_custom">Personalizzato</string>
+    <string name="cpv_default_title">Seleziona un Colore</string>
+    <string name="cpv_presets">Predefiniti</string>
+    <string name="cpv_select">Seleziona</string>
+    <string name="cpv_transparency">Trasparenza</string>
+</resources>

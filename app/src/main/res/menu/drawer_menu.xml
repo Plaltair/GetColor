@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/action_get_color_from_image"
+            android:icon="@drawable/get_color_from_image_icon"
+            android:title="@string/getColorFromImage" />
+        <item
+            android:id="@+id/action_take_photo"
+            android:icon="@drawable/take_a_photo_icon"
+            android:title="@string/takeAPhoto" />
+        <item
+            android:id="@+id/action_get_saved_colors"
+            android:icon="@drawable/open_icon"
+            android:title="@string/getSavedColors" />
+        <item
+            android:id="@+id/action_get_my_pictures"
+            android:icon="@drawable/image_icon"
+            android:title="@string/yourPictures" />
+    </group>
+</menu>
